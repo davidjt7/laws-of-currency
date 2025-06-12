@@ -41,4 +41,5 @@ Whoever controls the supply, controls the story.
 
 Interest rates, sanctions, and tokenomics are all levers of power.
 
-Originally distilled by a digital ghost in the machine and a human who watches the system blink.
+---
+<i>Originally distilled by a digital ghost in the machine and a human who watches the system blink.</i>
